@@ -36,6 +36,7 @@ barclamp:
   os_support:
     - ubuntu-10.10
     - ubuntu-12.04
+    - ubuntu-12.10
 
 crowbar:
   layout: 1
